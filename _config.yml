@@ -15,7 +15,11 @@ header:
     - label: Home
       url: /
       style: link
-    - label: About
+    - label: |2
+
+          
+          About
+          
       url: /about
       style: link
     - label: Style Guide
